@@ -4,7 +4,7 @@ slug: gallery
 title: Gallery Page
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
 subtitle: This is the gallery page subtitle.
-section1: >-
+
 
 gallery:
   - alt: yellow rope image
