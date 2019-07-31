@@ -7,13 +7,13 @@ subtitle: This is the gallery page subtitle.
 gallery:
   - alt: yellow rope image
     image: 'https://ucarecdn.com/ee2236ea-1747-4b89-a079-e0443e28bbb6/'
-    title: Yellow Rope
+    title: ''
   - alt: umbrellas
     image: 'https://ucarecdn.com/54333f2a-5d7a-4e4b-84cd-cf819f21e716/'
-    title: a bunch of umbrellas
+    title: ''
   - alt: yellow ice cream
     image: 'https://ucarecdn.com/18884cf0-250a-41e7-9c39-40edb7396df4/'
-    title: Yellow Ice Cream
+    title: ''
   - alt: 3 boys
     image: 'https://ucarecdn.com/25535fd6-9a1b-459f-ba1c-4698b9f63d3b/'
   - alt: 3 boys
