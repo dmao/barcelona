@@ -3,7 +3,7 @@ template: ComponentsPage
 slug: gallery
 title: Gallery Page
 featuredImage: 'https://ucarecdn.com/c3d94688-7b36-4380-bdd4-d4a0864bd187/'
-subtitle: This is the gallery page subtitle.
+subtitle: The gang in Barcelona
 gallery:
   - alt: yellow rope image
     image: 'https://ucarecdn.com/ee2236ea-1747-4b89-a079-e0443e28bbb6/'
