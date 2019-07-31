@@ -2,10 +2,8 @@
 template: ComponentsPage
 slug: gallery
 title: Gallery Page
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
+featuredImage: 'https://ucarecdn.com/c3d94688-7b36-4380-bdd4-d4a0864bd187/'
 subtitle: This is the gallery page subtitle.
-
-
 gallery:
   - alt: yellow rope image
     image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
@@ -20,3 +18,4 @@ meta:
   description: Pictures CSS Camp 2019.
   title: Pictures CSS Camp 2019.
 ---
+
