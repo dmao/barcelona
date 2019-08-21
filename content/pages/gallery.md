@@ -4,7 +4,7 @@ slug: gallery
 title: Gallery Page
 featuredImage: >-
   https://ucarecdn.com/c3d94688-7b36-4380-bdd4-d4a0864bd187/-/crop/1217x365/63,0/-/preview/
-subtitle: The gang in Barcelona
+subtitle: The gang in Barcelona - version modified
 gallery:
   - alt: yellow rope image
     image: 'https://ucarecdn.com/ee2236ea-1747-4b89-a079-e0443e28bbb6/'
